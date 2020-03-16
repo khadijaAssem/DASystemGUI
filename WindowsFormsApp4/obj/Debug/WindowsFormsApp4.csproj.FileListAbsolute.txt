@@ -1,0 +1,18 @@
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\hp\Desktop\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Data\Lycans\Microsoft VS\DASystemGUI\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
